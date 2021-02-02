@@ -4,9 +4,9 @@ if os.time() > endtime then
  os.exit()
 end
 
-gg.alert("HOŞ GELDİN GHOST TEAM İLK SCRİPT💝 ")
+gg.alert("HOŞ GELDİN GHOST TEAM İLK ONLİNE SCRİPT💝 ")
 LHPS = gg.prompt({
-":closed_lock_with_key:Parola Lütfen"
+" 💙 Lütfen Parola Girin"
 }, {}, {})
 if not LHPS then
  os.exit()
