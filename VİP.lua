@@ -11,7 +11,7 @@ LHPS = gg.prompt({
 if not LHPS then
  os.exit()
 end
-if LHPS[1] == "4848" then
+if LHPS[1] == "6358" then
  gg.toast("Şifre Doğru Hoşgeldiniz✅ ")
 else
 gg.alert("YANLIŞ PAROLA❌")
