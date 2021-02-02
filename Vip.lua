@@ -18,19 +18,19 @@ gg.alert("YANLIŞ PAROLA❌")
 os.exit()
 end
 
-gg.alert([[
+gg.alert("
  『G』『H』『O』『S』『T』
  『T』『E』『A』『M』
  『S』『C』『R』İ『P』『T』
   ❤️ 🧡 💛 💚 💙
-]])
+")
 
-gg.alert([[ⒹⒾğⒺⓇ ⒼüⓃⒸⒺⓁⓁⒺⓂⒹⒺ Ⓥ1.2 ⒼⒺⓁⒺⒸⒺⓀⓁⒺⓇ📂
+gg.alert("ⒹⒾğⒺⓇ ⒼüⓃⒸⒺⓁⓁⒺⓂⒹⒺ Ⓥ1.2 ⒼⒺⓁⒺⒸⒺⓀⓁⒺⓇ📂
  🔸🄺🄾🄳🄻🄰🅁ı 🄺🄰🄿🄰🅃🄼🄰 🄾🄽/🄾🄵🄵 ✅/❌
  🔹『H』『ı』『z』 『M』『e』『n』『ü』🏎
  🔸Ⓓⓐⓣⓐ Ⓞⓝ/Ⓞⓕⓕ ✅/❌
  🔹【U】【z】【a】【y】【a】 【Ç】 【ı】【k】【m】【a】🚀
-    ]])
+    ")
 
 gg.setVisible(false)
 gg.sleep(200)
