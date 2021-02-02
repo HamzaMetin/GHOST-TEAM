@@ -3,13 +3,6 @@ if os.time() > endtime then
  gg.alert("💛Script Süresi Doldu Yeni Scripti Telegramdan Alabilirsin 💙  \n 🗯TG:GhhostHack")
  os.exit()
 end
-
-gg.alert("ⒹⒾğⒺⓇ ⒼüⓃⒸⒺⓁⓁⒺⓂⒹⒺ Ⓥ1.2 ⒼⒺⓁⒺⒸⒺⓀⓁⒺⓇ📂
- 🔸🄺🄾🄳🄻🄰🅁ı 🄺🄰🄿🄰🅃🄼🄰 🄾🄽/🄾🄵🄵 ✅/❌
- 🔹『H』『ı』『z』 『M』『e』『n』『ü』🏎
- 🔸Ⓓⓐⓣⓐ Ⓞⓝ/Ⓞⓕⓕ ✅/❌
- 🔹【U】【z】【a】【y】【a】 【Ç】 【ı】【k】【m】【a】🚀
-    ")
  
 gg.alert("HOŞ GELDİN GHOST TEAM İLK ONLİNE SCRİPT💝 ")
 LHPS = gg.prompt({
