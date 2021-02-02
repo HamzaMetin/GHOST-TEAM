@@ -4,6 +4,13 @@ if os.time() > endtime then
  os.exit()
 end
 
+gg.alert("ⒹⒾğⒺⓇ ⒼüⓃⒸⒺⓁⓁⒺⓂⒹⒺ Ⓥ1.2 ⒼⒺⓁⒺⒸⒺⓀⓁⒺⓇ📂
+ 🔸🄺🄾🄳🄻🄰🅁ı 🄺🄰🄿🄰🅃🄼🄰 🄾🄽/🄾🄵🄵 ✅/❌
+ 🔹『H』『ı』『z』 『M』『e』『n』『ü』🏎
+ 🔸Ⓓⓐⓣⓐ Ⓞⓝ/Ⓞⓕⓕ ✅/❌
+ 🔹【U】【z】【a】【y】【a】 【Ç】 【ı】【k】【m】【a】🚀
+    ")
+ 
 gg.alert("HOŞ GELDİN GHOST TEAM İLK ONLİNE SCRİPT💝 ")
 LHPS = gg.prompt({
 " 💙 Lütfen Parola Girin"
@@ -17,13 +24,6 @@ else
 gg.alert("YANLIŞ PAROLA❌")
 os.exit()
 end
-
-gg.alert("ⒹⒾğⒺⓇ ⒼüⓃⒸⒺⓁⓁⒺⓂⒹⒺ Ⓥ1.2 ⒼⒺⓁⒺⒸⒺⓀⓁⒺⓇ📂
- 🔸🄺🄾🄳🄻🄰🅁ı 🄺🄰🄿🄰🅃🄼🄰 🄾🄽/🄾🄵🄵 ✅/❌
- 🔹『H』『ı』『z』 『M』『e』『n』『ü』🏎
- 🔸Ⓓⓐⓣⓐ Ⓞⓝ/Ⓞⓕⓕ ✅/❌
- 🔹【U】【z】【a】【y】【a】 【Ç】 【ı】【k】【m】【a】🚀
-    ")
 
 gg.setVisible(false)
 gg.sleep(200)
