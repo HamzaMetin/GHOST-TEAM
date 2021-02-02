@@ -18,7 +18,7 @@ gg.alert("YANLIŞ PAROLA❌")
 os.exit()
 end
 
-gg.elert([[
+gg.alert([[
  『G』『H』『O』『S』『T』
  『T』『E』『A』『M』
  『S』『C』『R』İ『P』『T』
