@@ -75,25 +75,6 @@ if menu1 == nil then
 end
 
 function  Anti()
-RX = gg.prompt({
-"🛡BYPASS[GL][KR]🛡",
-"💯REPORT CLEAR💯",
-':back:ⒺⓍⒾⓉ:back:',}, {}, {"checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox"})
-if RXE == nil then else
-if RXE[1] == true then
-     GL()
-   end
-   if RXE[2] == true then
-     RP()
-   end
-       if RXE[3] == true then
-     MAIN()
-   end
- end
- RXEY = 0
-end
-
-function GL()
 gg.clearResults()
 gg.setRanges(gg.REGION_C_ALLOC)
 gg.searchNumber("582749752655872;620137442967552", gg.TYPE_QWORD)
@@ -183,10 +164,6 @@ gg.getResults(99999999999)
 gg.editAll("0", gg.TYPE_FLOAT)
 gg.clearResults()
 gg.alert("BYPASS AÇILDI | @GhostTeam")
-end
-
-function RP()
-
 end
 
 function Silah()
