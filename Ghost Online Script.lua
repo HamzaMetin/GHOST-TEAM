@@ -11,7 +11,7 @@ LHPS = gg.prompt({
 if not LHPS then
  os.exit()
 end
-if LHPS[1] == "4848" then
+if LHPS[1] == "6258" then
  gg.toast("Şifre Doğru Hoşgeldiniz✅ ")
 else
 gg.alert("YANLIŞ PAROLA❌")
@@ -332,7 +332,7 @@ end
 
 function Oyun()
  GHOST = gg.multiChoice({
-   ":tokyo_tower:Anten:tokyo_tower:",
+   "🗼Anten🗼",
    "🌫Sis Kaldırma🌫",
    "🏝Çimen Kaldırma🏝",
    "💉İleri Uzanan Kol💉",
@@ -379,12 +379,7 @@ gg.clearResults()
 end
 
 function Sis()
-gg.clearResults()
-so=gg.getRangesList('libUE4.so')[1].start
-py=0x2D0DA34
-setvalue(so+py,16,0)
-gg.clearResults()
-gg.toast("Sis Kaldırma Aktif✅")
+gg.alert("Eklenecek ✅")
 end
 
 function Cim()
