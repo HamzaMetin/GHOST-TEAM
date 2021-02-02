@@ -78,7 +78,7 @@ function  Anti()
 RX = gg.prompt({
 "🛡BYPASS[GL][KR]🛡",
 "💯REPORT CLEAR💯",
-':back:ⒺⓍⒾⓉ:back:',}, {}, {"checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox"})
+':ⒺⓍⒾⓉ',}, {}, {"checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox","checkbox"})
 if RXE == nil then else
 if RXE[1] == true then
      GL()
@@ -267,7 +267,7 @@ end
 
 function Oyun()
  GHOST = gg.multiChoice({
-   ":tokyo_tower:Anten:tokyo_tower:",
+   "🗼Anten🗼",
    "🌫Sis Kaldırma🌫",
    "🏝Çimen Kaldırma🏝",
    "💉İleri Uzanan Kol💉",
