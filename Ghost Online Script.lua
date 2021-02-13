@@ -1,4 +1,4 @@
-endtime = load("return os.time{year=2021, month=02, day=07, hour=23,min=59, sec=59}")()
+endtime = load("return os.time{year=2021, month=022, day=07, hour=23,min=59, sec=59}")()
 if os.time() > endtime then
  gg.alert("💛Script Süresi Doldu Yeni Scripti Telegramdan Alabilirsin 💙  \n 🗯TG:GhhostHack")
  os.exit()
@@ -11,7 +11,7 @@ LHPS = gg.prompt({
 if not LHPS then
  os.exit()
 end
-if LHPS[1] == "6258" then
+if LHPS[1] == "1" then
  gg.toast("Şifre Doğru Hoşgeldiniz✅ ")
 else
 gg.alert("YANLIŞ PAROLA❌")
